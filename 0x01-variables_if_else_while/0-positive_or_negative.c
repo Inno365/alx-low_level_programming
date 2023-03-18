@@ -2,9 +2,9 @@
 #include <time.h>
 #include <stdio.h>
 /**
- *main - returns a zero integer
+ *main - assigns a random number to int n everytime
  *checks and prints numbers
- *return: an intiger on completing computation
+ *Return:0 an intiger on completing computation
  */
 int main(void)
 {
