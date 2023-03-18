@@ -2,8 +2,8 @@
 #include <time.h>
 #include <stdio.h>
 /**
-*main - returns a zero integer 
-*checks and prints numbers 
+ *main - returns a zero integer 
+ *checks and prints numbers 
 */
 int main(void)
 {
