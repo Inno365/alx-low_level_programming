@@ -4,6 +4,7 @@
 /**
  *main - returns a zero integer
  *checks and prints numbers
+ *return: an intiger on completing computation
  */
 int main(void)
 {
