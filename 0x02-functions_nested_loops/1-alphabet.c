@@ -1,21 +1,20 @@
 #include "main.h"
 #include "_putchar.c"
+
 /**
  * print_alphabet - prints alphabet in a loop.
  * Return: 0 on exit
  */
-int main(void)
-{
+
 void print_alphabet(void)
 {
-        char c = 'a';
+       	char c = 'a';
 
         while (c <= 'z')
         {
-                _putchar(c);
-                _putchar('\n');
+	       	_putchar(c);
                 c++;
 
         }
-}       return (0);
+	_putchar('\n');
 }
