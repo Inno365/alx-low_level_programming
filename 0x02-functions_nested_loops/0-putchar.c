@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * print_alphabet - start parsing from this main function.
+ * main - print_alphabet, start parsing from this main function.
  * Return: 0 on exit, always.
  */
 int main(void)
