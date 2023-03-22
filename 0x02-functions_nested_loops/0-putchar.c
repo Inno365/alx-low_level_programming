@@ -1,5 +1,4 @@
 #include "main.h"
-#include "_putchar.c"
 /**
  * print_alphabet - start parsing from this main function.
  * Return: 0 on exit, always.
