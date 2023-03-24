@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * _isupper - mrthod that checks for uppercase character
- * @c: To checked
- * Return: will return 1 if c is uppercase else return 0
+ * _isupper - checks for uppercase character
+ * @c: the character to be checked
+ * Return: 1 if c is uppercase, 0 otherwise
  */
 int _isupper(int c)
 {
