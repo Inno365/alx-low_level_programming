@@ -3,7 +3,6 @@
 /**
  * _puts - prints a string to stdout.
  * @str: pointer to the string to print.
- * @i: increment a string on the same line.
  */
 void _puts(char *str)
 {
