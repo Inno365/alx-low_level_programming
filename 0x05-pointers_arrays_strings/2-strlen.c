@@ -3,7 +3,6 @@
 /**
  * _strlen - returns the length of a string.
  * @s: string to evaluate.
- *@i: hold the incremented string.
  * Return: length of the string.
  */
 int _strlen(char *s)
