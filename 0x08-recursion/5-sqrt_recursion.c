@@ -7,9 +7,13 @@
  */
 int _sqr_recursion(int n)
 {
-	if (n < 0)
+	if (i * i > n)
 	{
 		return (-1);
 	}
-	return (_sqr_recursion(n, 0));
+	if (i * i == n)
+	{
+		return (i);
+	}
+	return (_sqr_recursion(n, i + 1));
 }
