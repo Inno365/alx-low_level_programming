@@ -7,7 +7,7 @@
  *Return: pointer (success), NULL (Error).
  */
 
-char *chreate_array(unsigned int size, char c)
+char *create_array(unsigned int size, char c)
 {
 	char *p;
 
