@@ -12,6 +12,7 @@ char *chreate_array(unsigned int size, char c)
 	char *p;
 
 	unsigned int i = 0;
+
 	if (size == 0)
 	{
 		return (NULL);
@@ -20,7 +21,7 @@ char *chreate_array(unsigned int size, char c)
 	{
 		return (0);
 	}
-	while(i < size)
+	while (i < size)
 	{
 		*(p + i) = c;
 		i++;
