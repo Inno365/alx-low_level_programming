@@ -1,5 +1,5 @@
 #include "main.h"
-#include <astlib.h>
+#include <stdlib.h>
 /**
  *creates an array of char with specific char initialization.
  *@c: start an array of char.
